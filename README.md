@@ -58,10 +58,10 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" />
   </a>
   <a href="https://www.twitter.com/devtrantuan" target="blank">
-    <img src="https://img.icons8.com/bubbles/50/000000/twitter-squared.png"/>
+    <img width="90" height="90" src="https://img.icons8.com/bubbles/50/000000/twitter-squared.png"/>
   </a>
   <a href="https://tiktok.com/@trantuan.it" target="blank">
-    <img src="https://img.icons8.com/bubbles/50/000000/tiktok.png" />
+    <img width="90" height="90" src="https://img.icons8.com/bubbles/50/000000/tiktok.png" />
   </a>
   <a href="https://instagram.com/trantuan.it" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" />
